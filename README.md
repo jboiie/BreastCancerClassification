@@ -1,5 +1,5 @@
 
-# 🧠 Breast Cancer Classification - With a Touch of PyTorch
+# 🧠 Breast Cancer Prediction - With a Touch of PyTorch
 
 Welcome to my machine learning project that tries to do something very real: predict breast cancer (malignant or benign) using a neural network powered by PyTorch and a slick Streamlit web interface.
 
